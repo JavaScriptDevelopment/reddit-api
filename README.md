@@ -1,3 +1,5 @@
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+
 # This web app curates the list of trending reddit posts using an api.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
